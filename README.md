@@ -1,9 +1,11 @@
-### Well, hello. 
+### Hey, I’m Mike 👋
 
-I'm a maker of internet things for over 20 years. I love what I do even when I hate it.
+I'm a full-stack engineer, technical leader, and lifelong builder of internet things. I've been crafting software professionally for 20+ years, and I still love the work—even when it's hard.
 
-- 👓 DevOps Engineering Manager at @Globacore
-- 📝 Blog: https://heymike.dev
-- 🧾 Resume: https://mike-robinson.ca
-- 🤖 Google Devloper: https://g.dev/mrob11
-- 🎸 Big time music geek
+- 👓 DevOps Engineering Manager @Globacore
+- 📝 Writing about code, product, and tech life → [heymike.dev](https://heymike.dev)
+- 📄 My resume → [mike-robinson.ca](https://mike-robinson.ca)
+- 🤖 Google Developer Profile → [g.dev/mrob11](https://g.dev/mrob11)
+- 🎸 Music nerd, guitar guy, studio tinkerer
+
+Always learning. Always shipping.
