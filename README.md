@@ -1,11 +1,24 @@
-### Hey, I’m Mike 👋
+# Hey, I’m Mike 👋
 
-I'm a full-stack engineer, technical leader, and lifelong builder of internet things. I've been crafting software professionally for 20+ years, and I still love the work—even when it's hard.
+I'm a full-stack web developer and technical lead focused on building scalable systems, intuitive user experiences, and developer tooling that makes teams faster and happier.
 
-- 👓 DevOps Engineering Manager @Globacore
-- 📝 Writing about code, product, and tech life → [heymike.dev](https://heymike.dev)
-- 📄 My resume → [mike-robinson.ca](https://mike-robinson.ca)
-- 🤖 Google Developer Profile → [g.dev/mrob11](https://g.dev/mrob11)
-- 🎸 Music nerd, guitar guy, studio tinkerer
+I work across the stack — from React and Next.js on the front end to TypeScript, Python, and PostgreSQL on the back end. I’ve architected internal platforms, led front-end transformations, and shipped high-concurrency web apps used by tens of thousands of users.
 
-Always learning. Always shipping.
+I'm especially interested in:
+- Clean, modular architecture
+- Developer experience and tooling
+- Content platforms and CMS design
+- Privacy-first home automation
+- Music tech and creative coding
+
+---
+
+🛠️ **Tech I'm into lately**  
+`Next.js` • `TypeScript` • `Django` • `PostgreSQL` • `Supabase` • `Astro` • `Vercel` • `Home Assistant`
+
+🎸 **Outside of code**  
+I play guitar in a local band, build way too many DIY projects, and tinker with home automation and 3D printing. I live in London, Ontario with my family and our chocolate lab, Ellie.
+
+---
+
+📬 You can find me at [heymike.dev](https://heymike.dev)
